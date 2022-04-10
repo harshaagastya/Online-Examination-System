@@ -20,3 +20,8 @@ Examinee's are the students who can
 
 For Security reasons of the exam Questions are shuffled.
 
+To run this Project
+* Download and install  xampp server.
+* Download the Code and paste it in the server Directory.
+* Import the db file to the server.
+
